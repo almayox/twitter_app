@@ -1,7 +1,5 @@
 
 
----
-
 # Twitter Clone App
 
 This is a Twitter clone app built using **Flutter**. The app provides core features of Twitter, such as posting tweets, liking, commenting, following users, and more. It aims to replicate the user experience of Twitter while exploring Flutter's capabilities in building social media applications.
