@@ -35,8 +35,8 @@ To run this project locally, you need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/twitter-clone-flutter.git
-   cd twitter-clone-flutter
+   git clone https://github.com/almayox/twitter_app.git
+   cd twitter_app
    ```
 
 2. Install dependencies:
