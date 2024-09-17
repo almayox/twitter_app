@@ -72,5 +72,3 @@ Feel free to submit issues or pull requests. Contributions, bug reports, and fea
 
 This project is licensed under the MIT License
 
----
-
