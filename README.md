@@ -1,4 +1,4 @@
-For your GitHub README file, you want to cover several key sections that explain what your Twitter app clone does, how to set it up, and any important details for developers or users. Here's a general outline you can follow:
+
 
 ---
 
